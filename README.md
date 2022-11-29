@@ -4,9 +4,9 @@
 ## DUET
 
 ## Team
-- Justin Harris
-- Matt Sweeney
-- Jack Viana
+- [Justin Harris](https://www.linkedin.com/in/justin-harris1/)
+- [Matt Sweeney](https://www.linkedin.com/in/sweeney-matt/)
+- [Jack Viana](https://www.linkedin.com/in/jack-viana/)
 
 ## Description
 
