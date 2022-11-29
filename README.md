@@ -1,8 +1,7 @@
-# Project 3
 
-![image](https://i.ibb.co/0GQp8jf/Music-Streaming-Wars.webp)
+![image]([https://i.ibb.co/0GQp8jf/Music-Streaming-Wars.webp](https://tinypic.host/images/2022/11/30/Screenshot-2022-11-29-at-5.11.48-PM.png))
 
-## Project Title: DUET
+## DUET
 
 ## Team
 - Justin Harris
@@ -11,16 +10,16 @@
 
 ## Description
 
-DUET is a social app where you connect with other people based on your music tastes
+DUET is a social app where you can make connections with others based on your taste in music. 
 
 ## How to Get Started
 
-- Login to your account 
-- Choose your favorite music genres
-- Choose your favorite music artists
-- Lorem ipsum 
-- Lorem ipsum 
-- Lorem ipsum 
+- Create an account 
+- Follow the prompts to select your favorite music genres
+- Follow the prompts to select your favorite music artists
+- Explore the feed, where you can see comments and threads started by others.
+- Navigate to the "Connections" tab where you can explore profiles you have liked, or explore potential new connections based on your interests.
+- You can also go to the "Genres" and "Artists" tab to update your interests. 
 
 
 ## Technologies Used
@@ -39,9 +38,6 @@ This site will be built using Sequelize/Express on the backend and React, Javasc
 - Main.jsx
 - Genres/Artists.jsx
 
-### Wireframes
-
-![image](https://i.imgur.com/7W5tSyR.png)
 
 Link - https://www.figma.com/file/pV7v0Sbe5ibVfb72oooNIe/Duet?node-id=0%3A1&t=OaJc8CA1KkipOUtV-0
 
@@ -49,7 +45,7 @@ Link - https://www.figma.com/file/pV7v0Sbe5ibVfb72oooNIe/Duet?node-id=0%3A1&t=Oa
 Link - PITCH DECK LINK GOES HERE
 
 ### Trello Board
-Link - TRELLO BOARD LINK GOES HERE
+Link - https://trello.com/b/Rk0BPwP2/duet
 
 ## Post-MVP Ideas
 
