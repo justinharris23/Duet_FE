@@ -1,5 +1,5 @@
 
-![image]([https://i.ibb.co/0GQp8jf/Music-Streaming-Wars.webp](https://tinypic.host/images/2022/11/30/Screenshot-2022-11-29-at-5.11.48-PM.png))
+![image](https://i.ibb.co/0GQp8jf/Music-Streaming-Wars.webp](https://tinypic.host/images/2022/11/30/Screenshot-2022-11-29-at-5.11.48-PM.png)
 
 ## DUET
 
