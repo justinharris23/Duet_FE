@@ -25,7 +25,7 @@ DUET is a social app where you connect with other people based on your music tas
 
 ## Technologies Used
 
-This site will be built using Sequelize/Express on the backend and React, Javascript and CSS on the frontend. The site will be using the following backend models and frontend components:
+This site will be built using Sequelize/Express on the backend and React, Javascript and CSS on the frontend. The site will be using the below Sequelize models and React components. Full CRUD operations (POST, GET, PUT, DELETE) will be implemented on at least one model.
 
 ## Models
 - User
